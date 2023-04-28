@@ -1,0 +1,54 @@
+{
+  "name": "pantherswap",
+  "timestamp": "2020-08-25T15:41:29.665Z",
+  "version": {
+    "major": 1,
+    "minor": 3,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "/images/coins/ETH.png",
+  "symbol": "ETH",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "ScratchSwap",
+      "symbol": "TPAP",
+      "address": "0xAa6ebE41cF57B254920a8484491E05BE74568dB6",
+      "chainId": 534353,
+      "decimals": 18
+    },
+    {
+      "name": "Testnet Token",
+      "symbol": "TEST",
+      "address": "0x07265c48980B14EEb015Dc57eF359ADBFd0f90C9",
+      "chainId": 534353,
+      "decimals": 18
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0x67aE69Fd63b4fc8809ADc224A9b82Be976039509",
+      "chainId": 534353,
+      "decimals": 6
+      
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0xf2719572e4E9369cDC061Ef602D0F20f8a42234d",
+      "chainId": 534353,
+      "decimals": 6,
+      "logoURI": "/images/coins/USDT-icon.png"      
+    },
+    {
+      "name": "Toybitz Token",
+      "symbol": "TOYBITZ",
+      "address": "0xd5E58A78D67775407e661119d371796e480D3979",
+      "chainId": 534353,
+      "decimals": 18
+     
+    }
+    
+  ]
+}
